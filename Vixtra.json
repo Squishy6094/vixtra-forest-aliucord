@@ -2,7 +2,8 @@
     "manifest": {
         "author": "VioletStorn#8888 & n#4799",
         "version": "6.6.6",
-        "name": "Vixtra"
+        "name": "Vixtra",
+        "updater": "https:\/\/raw.githubusercontent.com\/VioletStorm\/aliucord-plugins\/main\/Vixtra.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/xMBLPFc\/warmth.png",
